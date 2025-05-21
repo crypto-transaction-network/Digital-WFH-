@@ -11,7 +11,15 @@
         <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Market</a>
         <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Portfolio</a>
         <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Contact</a>
-      </nav>
+        
+<!-- Registration Button -->
+   <a 
+          href="https://web3autotrades.cc/account/signup" 
+          target="_blank" 
+          style="margin: 0 15px; text-decoration: none; padding: 8px 12px; background-color: #007bff; color: #fff; border-radius: 4px; font-weight: bold;">
+          Register
+        </a>
+       </nav>
     </header>
     
   <main style="max-width: 1000px; margin: 30px auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
