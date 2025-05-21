@@ -5,13 +5,13 @@
   </head>
   <body style="background-color: pink; margin: 0; font-family: Arial, sans-serif; color: #333;">
     <header style="background-color: #fff; padding: 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>
-      <nav style="margin-top: 10px;">
-        <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
-        <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Market</a>
-        <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Portfolio</a>
-        <a href="#" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Contact</a>
-
+  <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>
+  <nav style="margin-top: 10px;">
+    <a href="https://web3autotrades.cc/account/dashboard" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
+    <a href="https://www.tradingview.com/symbols/BTCUSD/" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Market</a>
+    <a href="https://web3autotrades.cc/account/dashboard/trade" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Portfolio</a>
+    <a href="https://wa.me/12722764080" target="_blank" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Contact</a>
+    <a href="https://example.com/register" target="_blank" style="margin: 0 15px; text-decoration: none; padding: 8px 12px; background-color: #007bff; color: #fff; font-weight: bold; border-radius: 4px;">Register</a>
   <hr>       
         
                        <!-- Registration Button -->
