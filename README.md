@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <H2>web3 WFH-HOLDERSH</H2>
   </head>
   <body style="background-color: pink; margin: 0; font-family: Arial, sans-serif; color: #333;">
     <header style="background-color: #fff; padding: 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
@@ -18,6 +17,7 @@
     
   <main style="max-width: 1000px; margin: 30px auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <section>
+        
         <!-- Bitcoin Card -->
         
    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
