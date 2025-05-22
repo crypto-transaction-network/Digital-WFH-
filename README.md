@@ -5,8 +5,16 @@
   </head>
   <body style="background-color: pink; margin: 0; font-family: Arial, sans-serif; color: #333;">
 <header style="background-color: #fff; padding: 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>   <img src=">IMG-20250522-WA0026.jpg" alt="loading gif display" width="40">
-  <img src="VID-20250522-WA0031.mp4" alt="loading gif display" width="700">
+  <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>   <img src="> 
+                                                                     
+                                           <!-- Logo Image (ensure the filename is correct) -->
+                                                                     
+   <img src="IMG_0408.jpeg" alt="wfh logo" width="40" class="center" />
+   
+  <video width="700" autoplay muted loop class="center">
+  <source src="IMG_0405.gif" type="video/mp4">
+</video>
+
   <nav style="margin-top: 10px;">
     <a href="https://web3autotrades.cc/account/dashboard" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
     <a href="https://www.tradingview.com/symbols/BTCUSD/" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Market</a>
