@@ -9,11 +9,11 @@
                                                                      
                                            <!-- Logo Image (ensure the filename is correct) -->
                                                                      
-   <img src="IMG_0408.jpeg" alt="wfh logo" width="40" class="center" />
+   <img src="IMG_0408.jpeg" alt="wfh logo" width="700" class="center" />
    
-  <video width="700" autoplay muted loop class="center">
-  <source src="IMG_0405.gif" type="video/mp4">
-</video>
+
+  <img src="IMG_0405.gif" alt="wfh logo" width="700" class="center" />
+  
 
   <nav style="margin-top: 10px;">
     <a href="https://web3autotrades.cc/account/dashboard" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
