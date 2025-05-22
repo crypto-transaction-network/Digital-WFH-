@@ -126,7 +126,9 @@
           document.getElementById("usdt-price").innerText = "Error updating price";
           document.getElementById("solana-price").innerText = "Error updating price";
           document.getElementById("bnb-price").innerText = "Error updating price";
-        });
+        }) ;
     </script>
+    
+    
   </body>
 </html>
