@@ -104,7 +104,6 @@
             <a href="https://bscscan.com/chart/bnb" target="_blank" style="text-decoration: none; padding: 8px 12px; background-color: #e0e0e0; color: #333; border-radius: 4px; font-size: 14px;">View Details</a>
 
    </div>
-  </div>
         </div>
       </section>
     </main>
