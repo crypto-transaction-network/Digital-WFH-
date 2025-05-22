@@ -34,7 +34,7 @@
         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
             <h2 id="bitcoin" style="margin: 0; font-size: 24px;">
-              <img src="IMG-20250522-WA0006.jpg" alt="BTC Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+              <img src="IMG-20250522-WA0008.jpg" alt="BTC Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Bitcoin
               <a class="anchorjs-link" href="#bitcoin" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
