@@ -27,12 +27,14 @@
   <main style="max-width: 1000px; margin: 30px auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <section>
         
+        <!-- Main Content -->
+  <main style="max-width: 1000px; margin: 30px auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <section>
         <!-- Bitcoin Card -->
-        
-   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
+        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
-            <h2 style="margin: 0; font-size: 24px;" id="bitcoin">
-              <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=013" alt="BTC Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+            <h2 id="bitcoin" style="margin: 0; font-size: 24px;">
+              <img src="IMG-20250522-WA0006.jpg" alt="BTC Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Bitcoin
               <a class="anchorjs-link" href="#bitcoin" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
@@ -44,11 +46,10 @@
         </div>
 
         <!-- Ethereum Card -->
-        
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
-            <h2 style="margin: 0; font-size: 24px;" id="ethereum">
-              <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=013" alt="ETH Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+            <h2 id="ethereum" style="margin: 0; font-size: 24px;">
+              <img src="IMG-20250522-WA0004.jpg" alt="ETH Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Ethereum
               <a class="anchorjs-link" href="#ethereum" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
@@ -60,11 +61,10 @@
         </div>
 
         <!-- Tether (USDT) Card -->
-        
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
-            <h2 style="margin: 0; font-size: 24px;" id="usdt">
-              <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=013" alt="USDT Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+            <h2 id="usdt" style="margin: 0; font-size: 24px;">
+              <img src="IMG-20250522-WA0003.jpg" alt="USDT Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Tether (USDT)
               <a class="anchorjs-link" href="#usdt" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
@@ -76,11 +76,10 @@
         </div>
 
         <!-- Solana Card -->
-        
-   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
-            <h2 style="margin: 0; font-size: 24px;" id="solana">
-              <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=013" alt="SOL Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+            <h2 id="solana" style="margin: 0; font-size: 24px;">
+              <img src="IMG-20250522-WA0005.jpg" alt="SOL Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Solana
               <a class="anchorjs-link" href="#solana" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
@@ -92,11 +91,10 @@
         </div>
 
         <!-- Binance Coin (BNB) Card -->
-        
-   <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0;">
           <div>
-            <h2 style="margin: 0; font-size: 24px;" id="bnb">
-              <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013" alt="BNB Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
+            <h2 id="bnb" style="margin: 0; font-size: 24px;">
+              <img src="IMG-20250522-WA0002.jpg" alt="BNB Logo" style="width: 24px; vertical-align: middle; margin-right: 8px;"> 
               Binance Coin (BNB)
               <a class="anchorjs-link" href="#bnb" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a>
             </h2>
