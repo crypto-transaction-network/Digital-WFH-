@@ -44,7 +44,7 @@
             <a href="https://www.blockchain.com/charts/market-price" target="_blank" style="text-decoration: none; padding: 8px 12px; background-color: #e0e0e0; color: #333; border-radius: 4px; font-size: 14px;">View Details</a>
           </div>
         </div>
-
+<hr>
         <!-- Ethereum Card -->
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
@@ -59,7 +59,7 @@
             <a href="https://etherscan.io/chart/etherprice" target="_blank" style="text-decoration: none; padding: 8px 12px; background-color: #e0e0e0; color: #333; border-radius: 4px; font-size: 14px;">View Details</a>
           </div>
         </div>
-
+<hr>
         <!-- Tether (USDT) Card -->
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
@@ -74,7 +74,7 @@
             <a href="https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597c13d831ec7" target="_blank" style="text-decoration: none; padding: 8px 12px; background-color: #e0e0e0; color: #333; border-radius: 4px; font-size: 14px;">View Details</a>
           </div>
         </div>
-
+<hr>
         <!-- Solana Card -->
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ddd; padding: 15px 0;">
           <div>
@@ -89,7 +89,7 @@
             <a href="https://explorer.solana.com" target="_blank" style="text-decoration: none; padding: 8px 12px; background-color: #e0e0e0; color: #333; border-radius: 4px; font-size: 14px;">View Details</a>
           </div>
         </div>
-
+<hr>
         <!-- Binance Coin (BNB) Card -->
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0;">
           <div>
