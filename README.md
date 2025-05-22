@@ -5,14 +5,13 @@
   </head>
   <body style="background-color: pink; margin: 0; font-family: Arial, sans-serif; color: #333;">
 <header style="background-color: #fff; padding: 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>   <img src="> 
+  <h1 style="margin: 0; font-size: 32px;">web3 WFH-HOLDERSH</h1>
                                                                      
                                            <!-- Logo Image (ensure the filename is correct) -->
                                                                      
    <img src="IMG_0408.jpeg" alt="wfh logo" width="700" class="center" />
    
-
-  <img src="IMG_0405.gif" alt="wfh logo" width="700" class="center" />
+ <img src="IMG_0405.gif" alt="wfh logo" width="700" class="center" />
   
 
   <nav style="margin-top: 10px;">
